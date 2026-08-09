@@ -1,0 +1,11 @@
+{
+  "domain"          : "sma_emeter"
+  ,"name"           : "SMA Energy Meter 1.0"
+  ,"version"        : "0.1.0"
+  ,"documentation"  : "https://github.com/transistorgrab/ha-sma-emeter"
+  ,"requirements"   : []
+  ,"codeowners"     : ["transistorgrab@github.com"]
+  ,"iot_class"      : "local_push"
+  ,"config_flow"    : true
+  ,"icon"           : "mdi:meter-electric"
+}
